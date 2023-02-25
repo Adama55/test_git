@@ -1,0 +1,11 @@
+div
+{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(79, 101, 226);
+    border: 1px solid red;
+    border-radius: 5%;
+
+    margin-left: 200px;
+    margin-top: 200px;
+}
